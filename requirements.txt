@@ -1,0 +1,9 @@
+azure-cosmos
+aiohttp
+uuid
+certifi
+json
+pandas
+matplotlib
+seaborn
+pymongo
